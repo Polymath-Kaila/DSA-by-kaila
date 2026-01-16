@@ -2,6 +2,7 @@
 # Linear algorith O(n)
 Has a linear time complexity.  
 
+# Linear algorithm O(n)
 # We use a for a loop 
 
 ```python
@@ -28,6 +29,8 @@ print_n(10)
 so: n + n = 2n , drop constant = n:  
 This O(n), this is proportional in that an increase in input reuslt in increase in time complexity.  
 This produces a straight line graph.  
+
+---
 
 ### Explain why linear algoriths scale better than quadratic algorithms.  
 
