@@ -41,3 +41,7 @@
 
 + `Drop Constants`
     + `O(2n)` simplify to `O(n)`
+
+## Visual Intuition
+
+![Big-O ]
