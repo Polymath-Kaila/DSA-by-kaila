@@ -1,5 +1,7 @@
 
 # Linear algorith O(n)
+Has a linear time complexity.  
+
 # We use a for a loop 
 
 ```python
