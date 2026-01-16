@@ -1,4 +1,7 @@
 
+# Linear algorith O(n)
+Has a linear time complexity.  
+
 # Linear algorithm O(n)
 # We use a for a loop 
 
