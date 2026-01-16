@@ -1,5 +1,5 @@
 
-# Linear algorith O(n)
+# Linear algorithm O(n)
 # We use a for a loop 
 
 ```python
