@@ -27,6 +27,8 @@ so: n + n = 2n , drop constant = n:
 This O(n), this is proportional in that an increase in input reuslt in increase in time complexity.  
 This produces a straight line graph.  
 
+---
+
 ### Explain why linear algoriths scale better than quadratic algorithms.  
 
 A linear algorithm's growth rate is proportional to the input size, why quadratic algorithm's grow much faster by a factor of four with the input increase.  
